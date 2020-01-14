@@ -1,16 +1,15 @@
 # dayrepair
 
-A new Flutter application.
+本项目为个人学习Flutter的练习项目。根据公司原生iOS项目来练习
 
-## Getting Started
+#预览
+部分页面效果如下：
+2020_01_14_15_43_IMG_1450.PNG
+2020_01_14_15_43_IMG_1451.PNG
+2020_01_14_15_44_IMG_1452.PNG
+2020_01_14_15_44_IMG_1453.PNG
+2020_01_14_15_45_IMG_1454.PNG
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#项目运行环境
+1. Flutter version 1.9.1+hotfix.6
+2. Dart version 2.2.5
