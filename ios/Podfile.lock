@@ -1,0 +1,69 @@
+PODS:
+  - amap_location (0.0.1):
+    - AMapLocation
+    - Flutter
+  - AMapFoundation (1.6.1)
+  - AMapLocation (2.6.4):
+    - AMapFoundation (~> 1.6.1)
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_inappwebview (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - amap_location (from `.symlinks/plugins/amap_location/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_inappwebview (from `.symlinks/plugins/flutter_inappwebview/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AMapFoundation
+    - AMapLocation
+
+EXTERNAL SOURCES:
+  amap_location:
+    :path: ".symlinks/plugins/amap_location/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_inappwebview:
+    :path: ".symlinks/plugins/flutter_inappwebview/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  amap_location: a3e2a140bb25950d4e97560ce1b00e53a121e4f4
+  AMapFoundation: df9a0ceec845ae2b5f57bdf9884666f2ed73bf5b
+  AMapLocation: b4162db67f813508a14ee7e05c7ee4073785221d
+  device_info: cbf09d2ec12aa7110e0b09fabe54b5bd6c8efe74
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_inappwebview: 239198123453705522ba6c4f78d3d7468215f248
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  shared_preferences: 430726339841afefe5142b9c1f50cb6bd7793e01
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.8.4

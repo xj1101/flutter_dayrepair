@@ -1,0 +1,32 @@
+[
+    {
+      "type_name" : "接单中",
+      "type_id" : "0",
+      "isSelected":false
+    },
+    {
+      "type_name" : "维修中",
+      "type_id" : "1",
+      "isSelected":false
+    },
+    {
+      "type_name" : "待评价",
+      "type_id" : "3",
+      "isSelected":false
+    },
+    {
+      "type_name" : "已完成",
+      "type_id" : "2",
+      "isSelected":false
+    },
+    {
+      "type_name" : "已取消",
+      "type_id" : "5",
+      "isSelected":false
+    },
+    {
+      "type_name" : "售后中",
+      "type_id" : "6",
+      "isSelected":false
+    }
+  ]

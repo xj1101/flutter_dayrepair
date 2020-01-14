@@ -1,2 +1,16 @@
-# flutter_dayrepair
-学习flutter,初步实战当日修客服端(完成60%)，工作之余再慢慢完善,第一次用flutter实战，先开源出来,不足之处请见谅
+# dayrepair
+
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

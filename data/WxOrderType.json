@@ -1,0 +1,17 @@
+[
+    {
+      "type_name" : "上门服务",
+      "type_id" : "1",
+      "isSelected":false
+    },
+    {
+      "type_name" : "邮寄维修",
+      "type_id" : "0",
+      "isSelected":false
+    },
+    {
+      "type_name" : "到店维修",
+      "type_id" : "2",
+      "isSelected":false
+    }
+  ]
